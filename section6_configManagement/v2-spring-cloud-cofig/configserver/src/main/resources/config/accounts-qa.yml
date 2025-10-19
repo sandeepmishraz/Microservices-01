@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Ankita Mohapatra - QA Lead"
+    email: "ankitamohapatra898k@gmail.com"
+  onCallSupport:
+    - 8895100445
